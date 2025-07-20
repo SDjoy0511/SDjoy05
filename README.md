@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdjoy0511" alt="sdjoy0511" /></a> </p>
 
-- 🔭 I’m currently working on **Rapido clone**
+- 🔭 I’m currently working on **MY BROWSER**
 
 - 🌱 I’m currently learning **React JS, Node JS, Mongo**
 
 - 💬 Ask me about **react , c**
 
-- 📫 How to reach me **dassrinjoy006@gmail.com**
+- 📫 How to reach me **dassrinjoy007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
